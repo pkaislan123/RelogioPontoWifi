@@ -16,5 +16,5 @@ O sistema eletrônico desses relógios consiste em:
 -> Um módulo NodeMcu Esp8266 atuando como placa mãe
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/pkaislan123/RelogioPontoWifi/main/relogio_ponto_wifi.jpeg title="hover text">
+  <img src=https://raw.githubusercontent.com/pkaislan123/PortaoEletronicoCom-Arduino-RF/main/image.png title="hover text">
 </p>
